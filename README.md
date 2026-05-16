@@ -27,10 +27,6 @@ Text data was converted into numerical format using:
 
 ---
 
-# Team Members 
-
-ANU GOPAL V , FIDAL GOVIND , ARJUN S
-
 ## Evaluation Metrics
 
 The models were evaluated using:
@@ -75,3 +71,7 @@ The best-performing model was selected based on:
 ## Conclusion
 
 The trained models successfully classified spam and ham messages with high accuracy.
+
+# Team Members 
+
+ANU GOPAL V , FIDAL GOVIND , ARJUN S
