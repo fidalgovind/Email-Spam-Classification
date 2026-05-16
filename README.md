@@ -100,7 +100,7 @@ The insights obtained during EDA guided the later stages of preprocessing, model
 
 # Team Members 
 
-  ANU GOPAL V 
-  FIDAL GOVIND 
+  ANU GOPAL V, 
+  FIDAL GOVIND, 
   ARJUN S
 
