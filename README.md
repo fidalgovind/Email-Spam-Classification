@@ -1,6 +1,5 @@
-                          Email-Spam-Classification
 
-# Feature: Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
 
 This branch focuses on the Exploratory Data Analysis (EDA) phase of the Email Spam Classification project.
 
@@ -99,5 +98,9 @@ The EDA phase helped identify:
 - Suitable feature extraction techniques for NLP classification
 
 The insights obtained during EDA guided the later stages of preprocessing, model training, and evaluation.
+
+Team members : ANU GOPAL V 
+               FIDAL GOVIND
+               ARJUN S
 
 
