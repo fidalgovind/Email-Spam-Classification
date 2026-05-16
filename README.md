@@ -5,3 +5,7 @@
 ## Deployment Link
 
 [Open Streamlit App](https://email-spam-classification-erd32gzrsof4qto2zxkfz8.streamlit.app/)
+
+# Team Members 
+
+ANU GOPAL V , FIDAL GOVIND , ARJUN S
