@@ -1,4 +1,4 @@
-# Feature: Text Preprocessing
+# Text Preprocessing
 
 This branch focuses on the text preprocessing stage of the Email Spam Classification project.
 
