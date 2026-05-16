@@ -27,3 +27,7 @@ TF-IDF Vectorization
 Model Prediction
       ↓
 Spam / Ham Output
+
+# Team members
+
+ANU GOPAL V , FIDAL GOVIND , ARJUN S 
