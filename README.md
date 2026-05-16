@@ -144,6 +144,6 @@ It serves as the foundation for successful NLP-based machine learning systems.
 
 # Team members 
 
-  ANU GOPAL V 
-  FIDAL GOVIND 
-  ARJUN S 
+  ANU GOPAL V, 
+  FIDAL GOVIND,
+  ARJUN S, 
