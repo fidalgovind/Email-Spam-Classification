@@ -1,5 +1,9 @@
 # Model Prediction
 
+# Team Members 
+
+ANU GOPAL V , FIDAL GOVIND , ARJUN S
+
 ## Overview
 
 This branch focuses on building the prediction system using the trained spam classification model.
@@ -28,6 +32,6 @@ Model Prediction
       ↓
 Spam / Ham Output
 
-# Team members
 
-ANU GOPAL V , FIDAL GOVIND , ARJUN S 
+
+
